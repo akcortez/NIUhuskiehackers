@@ -1,10 +1,6 @@
 description: Huskie Hackers is a competitive and social club that involves hackathons and coming together to discuss computer science. 
 
-Unlock Your Potential: Dynamic community fostering creativity and technical prowess.
-Real-World Impact: Solve meaningful problems and make a difference.
-Lifelong Connections: Build a supportive community beyond coding sessions.
-Resume Boost: Hackathons and projects for real-world problem-solving skills.
-Idea to Reality: Transform innovative concepts into tangible ventures.
-
-theme: minima
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+- jekyll-remote-theme
 
