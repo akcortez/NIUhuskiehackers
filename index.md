@@ -1,9 +1,11 @@
 ---
-title: "Home"
+title: "Huskie Hackers"
 layout: page
 permalink: /
 description: "Homepage with meeting details"
 ---
+
+Welcome to Huskie Hackers!
 
 Meetings occur weekly:
 
