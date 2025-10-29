@@ -1,4 +1,3 @@
-```markdown
 ---
 title: "Meetings"
 description: |
@@ -6,9 +5,3 @@ description: |
   - Every Wednesday from 5pm - 7pm
   - Every Friday from 3:30pm - 5:30pm
 ---
-
-Meetings occur weekly:
-
-- Every Wednesday from 5pm - 7pm
-- Every Friday from 3:30pm - 5:30pm
-```
