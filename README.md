@@ -8,5 +8,5 @@ WORK IN PROGRESS
 4. Run `bundle exec jekyll serve --livereload` to start the dev server
 5. Make some edits!
 
-# File Layout
+# File Layout(Incomplete)
 Posts go in `_posts`(use the existing posts for reference)
